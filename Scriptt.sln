@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EF42B149-98C4-45F0-ADF6-748D6E6B656F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdfPlay", "IronPdfPlay\IronPdfPlay.csproj", "{5B6B2D81-E402-4676-992D-90F88C0B540A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF42B149-98C4-45F0-ADF6-748D6E6B656F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF42B149-98C4-45F0-ADF6-748D6E6B656F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF42B149-98C4-45F0-ADF6-748D6E6B656F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF42B149-98C4-45F0-ADF6-748D6E6B656F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6B2D81-E402-4676-992D-90F88C0B540A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6B2D81-E402-4676-992D-90F88C0B540A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6B2D81-E402-4676-992D-90F88C0B540A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6B2D81-E402-4676-992D-90F88C0B540A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3BE3468-06CE-49AA-B061-CA3C45CED304}
+	EndGlobalSection
+EndGlobal
